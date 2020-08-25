@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+#header_wrap .inner {
+    padding: 150px 10px 30px 10px;
+}
+
+#header_wrap {
+  background: transparent;
+}
+
+#footer_wrap {
+  background: transparent;
+}
+
+body {
+  background: #000 url("https://www.lsst.org/sites/default/files/public/slide-1.png") no-repeat top center;
+  color: transparent;
+
+}
+
+h1 {
+  color: #028b8c;
+}
+
+p {
+  color: #222222;
+}
